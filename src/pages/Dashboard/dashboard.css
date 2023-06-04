@@ -1,0 +1,31 @@
+.dashboard-gridview{
+    padding: 10px;
+}
+.card-grid-header{
+    font-size: 1rem;
+    color:#063970;
+    margin: 0 auto 5px auto;
+    font-weight: 600;
+}    
+
+.back-button{
+    background-color:#063970;
+    color: white;
+    padding: 8px;
+    margin: 8px;
+    border-radius: 2%;
+    text-transform: capitalize;
+    font-size: 10px;
+    cursor: pointer;
+}
+
+.MuiDataGrid-columnHeaderTitleContainerContent{
+    font-size: 14px;
+    font-weight: 800;    
+    white-space: break-spaces;
+    overflow-wrap: break-word;
+    color: #063970;
+}
+.MuiDataGrid-cellContent{
+    font-size: 12px;
+}
